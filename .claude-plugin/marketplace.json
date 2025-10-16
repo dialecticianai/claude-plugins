@@ -1,0 +1,14 @@
+{
+  "name": "dialectician",
+  "owner": {
+    "name": "Dialectician AI",
+    "url": "https://github.com/dialecticianai"
+  },
+  "plugins": [
+    {
+      "name": "hegel",
+      "source": "https://github.com/dialecticianai/hegel-cli",
+      "description": "Dialectic-Driven Development workflow orchestration"
+    }
+  ]
+}
