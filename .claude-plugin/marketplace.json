@@ -7,7 +7,10 @@
   "plugins": [
     {
       "name": "hegel",
-      "source": "https://github.com/dialecticianai/hegel-cli",
+      "source": {
+        "source": "github",
+        "repo": "dialecticianai/hegel-cli"
+      },
       "description": "Dialectic-Driven Development workflow orchestration"
     }
   ]
